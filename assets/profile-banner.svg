@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="286" viewBox="0 0 1200 286" role="img" aria-label="Igor Ribeiro, Full Stack Developer. Backend, Cloud and Software Architecture.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="286" viewBox="0 0 1200 286" role="img" aria-label="Igor Ribeiro, Full Stack Developer. Web, Mobile, APIs and SaaS.">
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#101722"/><stop offset="0.52" stop-color="#0D1117"/><stop offset="1" stop-color="#101A2A"/></linearGradient>
   <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58A6FF"/><stop offset="1" stop-color="#1F6FEB"/></linearGradient>
@@ -12,7 +12,7 @@
 <text x="83" y="97" fill="#8B949E" font-family="Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="4" font-weight="700">SOFTWARE ENGINEER • BRAZIL</text>
 <text x="80" y="159" fill="#F0F6FC" font-family="Segoe UI, Arial, sans-serif" font-size="56" font-weight="750" letter-spacing="1">IGOR RIBEIRO</text>
 <text x="83" y="199" fill="#58A6FF" font-family="Segoe UI, Arial, sans-serif" font-size="21" font-weight="600">Full Stack Developer</text>
-<text x="83" y="232" fill="#A8B4C4" font-family="Segoe UI, Arial, sans-serif" font-size="18">Backend   /   Cloud   /   Software Architecture</text>
+<text x="83" y="232" fill="#A8B4C4" font-family="Segoe UI, Arial, sans-serif" font-size="18">Web Apps   /   Mobile   /   APIs   /   SaaS</text>
 <!-- Abstract network illustration on the right; decorative, no misleading metrics -->
 <g stroke="#294666" stroke-width="2" fill="none" opacity="0.88">
 <path d="M822 138 L900 74 L996 109 L1097 57"/><path d="M822 138 L905 205 L1000 173 L1097 218"/><path d="M900 74 L1000 173 L1097 57"/><path d="M996 109 L905 205 L1097 218"/>
