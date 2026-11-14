@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Igor Ribeiro — Full Stack Developer | Backend, Cloud and Software Architecture" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Igor Ribeiro — Full Stack Developer | Web, Mobile, APIs and SaaS" width="100%" />
 
 <br />
 
@@ -12,40 +12,42 @@
 
 ### About me
 
-I'm a **Full Stack Developer** based in Brazil with **3+ years of experience** building web applications, APIs, and end-to-end products. I enjoy designing reliable backend systems, improving performance, and turning complex requirements into maintainable software.
+I'm a **Full Stack Developer** based in Brazil with **3+ years of experience** building web applications, mobile apps, APIs, and end-to-end products. I work across frontend and backend to turn ideas into reliable, maintainable software.
 
-- **Backend first:** Node.js, Go, NestJS, REST & GraphQL APIs.
-- **Data & infrastructure:** PostgreSQL, Redis, Docker, AWS, caching, and asynchronous processing.
-- **Full-stack delivery:** React, Next.js, TypeScript, testing, CI/CD, and cloud deployments.
-- **Currently focused on:** backend architecture, distributed systems, Go, and practical AI integrations.
+- **Frontend & mobile:** React, React Native, Expo, Next.js, TypeScript, and Tailwind CSS.
+- **Backend & APIs:** Node.js, Go, NestJS, REST, and GraphQL.
+- **Data & tools:** PostgreSQL, Redis, Prisma, Git, and automated testing.
+- **Currently building:** SaaS platforms, web and mobile applications, and practical AI integrations.
 
 ### Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,go,kotlin,nestjs,react,nextjs,postgres,redis,aws,docker,git&amp;theme=dark" alt="TypeScript, JavaScript, Node.js, Go, Kotlin, NestJS, React, Next.js, PostgreSQL, Redis, AWS, Docker and Git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,go,nestjs,react,nextjs,postgres,redis,aws,git&amp;theme=dark" alt="TypeScript, JavaScript, Node.js, Go, NestJS, React, Next.js, PostgreSQL, Redis, AWS and Git" />
+  <img src="./assets/react-native-icon.svg" alt="React Native" width="48" height="48" />
+  <img src="./assets/expo-icon.svg" alt="Expo / Expo Go" width="48" height="48" />
 </div>
 
 <br />
 
-| Backend & APIs | Frontend | Databases & Cloud |
+| Backend & APIs | Frontend & Mobile | Data & Tools |
 | :--- | :--- | :--- |
-| Node.js · Go · NestJS · REST · GraphQL | React · Next.js · TypeScript · Tailwind CSS | PostgreSQL · Redis · Prisma · AWS · Docker |
+| Node.js · Go · NestJS · REST · GraphQL | React · React Native · Expo · Next.js · TypeScript · Tailwind CSS | PostgreSQL · Redis · Prisma · Git |
 
 ### Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>Garimpex</h3>
+      <p><strong>In development</strong> · SaaS for discovering, organizing, and distributing affiliate offers across channels, with category filters, automation, and configurable delivery rules.</p>
+      <p><strong>Stack:</strong> Next.js · React · TypeScript · NestJS · PostgreSQL · Redis</p>
+      <p><sub>Private repository · Work in progress</sub></p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/igorribery/criptoinvest">CriptoInvest</a></h3>
       <p>Full-stack cryptocurrency tracking platform with portfolio management, authentication, and automated price alerts.</p>
       <p><strong>Stack:</strong> Next.js · Node.js · PostgreSQL · AWS (Amplify, CloudFront, Elastic Beanstalk, RDS, Lambda)</p>
       <p><a href="https://github.com/igorribery/criptoinvest">Explore project →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/igorribery/taskflow">TaskFlow</a></h3>
-      <p>Collaborative Kanban workspace with JWT authentication, task history, and a local AI assistant with in-memory RAG.</p>
-      <p><strong>Stack:</strong> Next.js · NestJS · Prisma · PostgreSQL · Redis · Ollama</p>
-      <p><a href="https://github.com/igorribery/taskflow">Explore project →</a></p>
     </td>
   </tr>
 </table>
